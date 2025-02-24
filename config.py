@@ -1,6 +1,6 @@
 # Basic Config (For all bots)
 pythonCommand = "python" # If you have the python command set to something else such as python3
-userToken = ['MTMzOTg4MTQyNDM4NzMwOTY4Mg.G_pmSr.o3lXCTeatdmcLaK6IfRnU_3g9QwD3UWQ7yi8YY'] # User Tokens here. exa
+userToken = ['TOKEN'] # User Tokens here. exa
 DiscordChannel = '1243491232580108310' # Channel ID,
 SpamSpeed = 0.7 # Changes how fast the messages are posted. (Anything under 0.7 tends to break it (┛✧Д✧))┛彡┻━
 textRandom = False # if the root has 'text.txt' it will pick a random text line and send it.
